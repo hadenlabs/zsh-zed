@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: ZshPluginTemplate -->
-<!-- Title: Commands ZshPluginTemplate -->
-<!-- Label: ZshPluginTemplate -->
+<!-- Parent: ZshZed -->
+<!-- Title: Commands ZshZed -->
+<!-- Label: ZshZed -->
 <!-- Label: Project -->
 <!-- Label: Commands -->
 <!-- Include: disclaimer.md -->

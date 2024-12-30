@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: ZshPluginTemplate -->
-<!-- Title: EnvVars ZshPluginTemplate -->
-<!-- Label: ZshPluginTemplate -->
+<!-- Parent: ZshZed -->
+<!-- Title: EnvVars ZshZed -->
+<!-- Label: ZshZed -->
 <!-- Label: Project -->
 <!-- Label: EnvVars -->
 <!-- Include: disclaimer.md -->

@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "zsh-plugin-name"
+name = "zsh-zed"
 version = "0.0.0"
 description = "zsh plugin name"
 authors = ["Luis Mayta <luis@hadenlabs.com>"]
 license = "LGPL-3.0"
 readme = "README.md"
-repository = "https://github.com/hadenlabs/zsh-plugin-template"
+repository = "https://github.com/hadenlabs/zsh-zed"
 
 [tool.poetry.dependencies]
 python = "^3.8,<3.12"

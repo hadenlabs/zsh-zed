@@ -1,6 +1,6 @@
 <!-- Space: Projects -->
-<!-- Parent: ZshPluginTemplate -->
-<!-- Title: Examples ZshPluginTemplate -->
+<!-- Parent: ZshZed -->
+<!-- Title: Examples ZshZed -->
 <!-- Label: Examples -->
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->

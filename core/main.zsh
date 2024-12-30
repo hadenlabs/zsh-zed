@@ -1,19 +1,19 @@
 #!/usr/bin/env ksh
 # -*- coding: utf-8 -*-
 
-function plugin-template::core::main::factory {
+function zsh_zed::core::main::factory {
     # shellcheck source=/dev/null
-    source "${ZSH_PLUGIN_TEMPLATE_PATH}"/core/base.zsh
+    source "${ZSH_ZSH_ZED_PATH}"/core/base.zsh
     case "${OSTYPE}" in
     darwin*)
         # shellcheck source=/dev/null
-        source "${ZSH_PLUGIN_TEMPLATE_PATH}"/core/osx.zsh
+        source "${ZSH_ZSH_ZED_PATH}"/core/osx.zsh
         ;;
     linux*)
         # shellcheck source=/dev/null
-        source "${ZSH_PLUGIN_TEMPLATE_PATH}"/core/linux.zsh
+        source "${ZSH_ZSH_ZED_PATH}"/core/linux.zsh
       ;;
     esac
 }
 
-plugin-template::core::main::factory
+zsh_zed::core::main::factory
